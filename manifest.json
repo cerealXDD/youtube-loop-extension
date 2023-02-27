@@ -2,7 +2,7 @@
   "name": "Youtube Loop Extension",
   "description": "Automatically loop videos on YouTube",
   "version": "1.0",
-  "manifest_version": 2,
+  "manifest_version": 3,
   "permissions": ["tabs", "activeTab"],
   "content_scripts": [
     {
